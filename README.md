@@ -1,7 +1,9 @@
- <div align="center">
-<h1 align="center">Hola, soy Sebastian </a> 👋</h1>
-</div>
+<div align="center" style="border: 3px solid #00BFFF; border-radius: 15px; padding: 20px; background-color: #f0faff;">
+  
+  <h1 style="color:#00BFFF;">👋 Hola, soy <b>Sebastian</b></h1>
+  <p style="font-size: 18px;">Bienvenido a mi perfil de GitHub 🚀</p>
 
+</div>
 
 ## Sobre mi
 
