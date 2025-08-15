@@ -27,7 +27,7 @@
 </table>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ Lenguajes
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-40%25-blue?style=for-the-badge" />
