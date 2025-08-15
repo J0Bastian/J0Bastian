@@ -1,6 +1,6 @@
-<div align="center" style="border: 3px solid #00BFFF; border-radius: 15px; padding: 20px; background-color: #f0faff;">
-  
-  <h1 style="color:#00BFFF;">👋 Hola, soy <b>Sebastian</b></h1>
+<p align="center" style="background-color:#1E90FF; color:white; padding:10px; font-size:28px; font-weight:bold;">
+  👋 Hola, soy Sebastian
+</p>
   <p style="font-size: 18px;">Bienvenido a mi perfil de GitHub 🚀</p>
 
 </div>
