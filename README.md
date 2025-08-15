@@ -1,6 +1,6 @@
-## Hola Soy Sebastian 👋
+
  <div align="center">
-<h1 align="center">Hola, soy Bastian</a> 👋</h1>
+<h1 align="center">Hola, soy Sebastian</a> 👋</h1>
 </div>
 
 
