@@ -29,7 +29,7 @@
 ### ⚙️ Lenguajes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-40%25-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-30%25-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-15%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-%2040%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%2030%25-red?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2015%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
