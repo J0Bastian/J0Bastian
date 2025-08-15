@@ -30,7 +30,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/J0Bastian">
-    <img height="180em" src="https://raw.githubusercontent.com/J0Bastian/MercatBid/main/assets/lenguajes_personalizados.png](https://github.com/J0Bastian/Hoja_Vida/blob/main/assets" alt="Lenguajes: HTML 40%, Java 30%, Python 15%" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML-40%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-30%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-15%25-blue?style=for-the-badge" />
 </p>
